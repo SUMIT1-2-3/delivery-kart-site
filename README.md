@@ -19,7 +19,7 @@ It was my second website and a big leap in understanding how to structure a webp
 - Small intro to media queries
 
 ## 🌐 Live Website:
-👉 [Click to view the site](https://sumit1-2-3.github.io/delivery-kart-site/))
+👉 [Click to view the site](https://sumit1-2-3.github.io/delivery-kart-site/)
 
 ## 🛠️ Built With:
 - HTML5
